@@ -104,7 +104,7 @@ logo = """
 \033[94;1m╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝ 
 \033[1;97m--------------------------------------------------
 \033[1;91m Author      :  MR-HIANA-KHAN 
-\033[1;91m GitHub      : https://github.com/HINAKHAN 
+\033[1;91m GitHub      : https://github.com/HINAKHAN1 
 \033[1;91m LOVER🙈    :  HINAKHAN X FAYAZKHAN
 \033[1;91m FACEBOOK     :  Mr HINAKHA1 
 \033[1;91m VERSOIN   : ________
