@@ -1,5 +1,5 @@
 # coding: utf-8
-# Decompiled By HINA KHAN1
+# Decompiled By HINA KHA1
 # Github : https://github.com/Fayazgull/HINAKHAN1.git
 # uncompyle6 version 1.1.2
 # Original written By HINA KHAN1
@@ -8,7 +8,7 @@
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
 __author__ = 'USMAN'
 __copyright = 'All rights reserved . Copyright  USMAN SHAHZAD'
-CorrectUsername = 'HINAKHAN1'
+CorrectUsername = 'HINAKHA1'
 os.system('clear')
 loop = 'true'
 while (loop == 'true'):
@@ -104,7 +104,7 @@ logo = """
 \033[94;1m╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝ 
 \033[1;97m--------------------------------------------------
 \033[1;91m Author      :  MR-HIANA-KHAN 
-\033[1;91m GitHub      : https://github.com/HINAKHAN1 
+\033[1;91m GitHub      : https://github.com/HINAKHA1 
 \033[1;91m LOVER🙈    :  HINAKHAN X FAYAZKHAN
 \033[1;91m FACEBOOK     :  Mr HINAKHA1 
 \033[1;91m VERSOIN   : ________
